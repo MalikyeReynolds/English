@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: JavaScript
+subtitle: What is it?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+JavaScript is a dynamically typed programming language that has been in use since the 90's. JavaScript has many uses, included but not limited to:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Website Creation (Client side code)
+- Server side code
+- Game Creation
 
-What else do you need?
+The majority of the websites on the internet are made in JavaScript.
 
-### My story
+### What is the point of this website?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The point of this website is to go over JavaScript and its history. Going back to when it was created up to now.
