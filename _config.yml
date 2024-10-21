@@ -21,8 +21,8 @@ author: Malikye Reynolds
 
 navbar-links:
   Home: "/"
-  History: "/history.md"
-  Reflection: "https://deanattali.com"
+  History: "history"
+  Reflection: "/"
 
 ################
 # --- Logo --- #
