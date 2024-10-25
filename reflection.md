@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reflection
-subtitle: What I did to make this website and what I should improve in the future
+subtitle: What I did to make this website how I should improve myself the future
 ---
 
 &emsp; Everyone has their own strengths. Some people are more creative, and others are better at more practical things, like making websites. I am good at neither. I thought that it would be a good learning experience to make a website, to practice both my website building and creative skills. My strengths are my problem solving and my ability to program, so even if I don’t know how to do something exactly, I am able to fix any problems that I may have. This was definitely a learning experience, and I have learned a lot of things about websites. I also have learned what I should improve and what I should do differently next time I approach any project that I plan to face. 
