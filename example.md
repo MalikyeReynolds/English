@@ -1,17 +1,13 @@
 ---
 layout: page
-title: History
-subtitle: Large events since the creation of JavaScript to now
+title: Example
 ---
 
-##### 1995: The Creation of JavaScript
+Here is an example of JavaScript being used to make a simple game! This game uses JavaScript and an HTML5 Canvas and nothing else! To start, resart, or flip direction click on the game.
 
-JavaScript was created in 1995 in just 10 days. It was made by Brendan Eich and implemented in Netscape Navigator, one of the first web browsers. Although it was only able to load static pages, its simplicity made it loved by the public.
-
-##### 1995: The Creation of Internet Explorer
+<span id="highscore"></span>
 
 <span id="score"></span>
-<span id="highscore"></span>
 <canvas id="Game"></canvas>
 
 
