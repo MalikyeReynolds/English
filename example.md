@@ -10,4 +10,14 @@ JavaScript was created in 1995 in just 10 days. It was made by Brendan Eich and 
 
 ##### 1995: The Creation of Internet Explorer
 
-Later in the same year that it was created, Internet Explorer was created by Microsoft. Both Netscape and Internet Explorer used JavaScript, but they had different interpreters. Because of the difference in their interpreters, something that workd on Internet Explorer wasn't guarenteed to work on something else and vise versa. They even had different versions of logos and webpages for specific web browsers.
+<span id="score"></span>
+<span id="highscore"></span>
+<canvas id="Game"></canvas>
+
+
+<html>
+  <body>
+    <div id="result"></div>
+    <script src="game.js"></script>
+  </body>
+</html>
