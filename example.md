@@ -18,6 +18,6 @@ JavaScript was created in 1995 in just 10 days. It was made by Brendan Eich and 
 <html>
   <body>
     <div id="result"></div>
-    <script src="game.js"></script>
+    <script src="game.js" type="text/javascript"></script>
   </body>
 </html>
