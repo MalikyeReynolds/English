@@ -8,7 +8,7 @@ Here is an example of JavaScript being used to make a simple game! This game use
 <span id="highscore"></span>
 
 <span id="score"></span>
-<canvas id="Game"></canvas>
+<canvas id="Game" width="800" height="400"></canvas>
 
 
 <html>
