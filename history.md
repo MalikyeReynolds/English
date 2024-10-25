@@ -4,6 +4,14 @@ title: History
 subtitle: Large events since the creation of JavaScript to now
 ---
 
+<img src="assets/img/avatar-icon.png"></img>
+<img src="assets/img/500px-IE_1_logo.png"></img>
+<img src="assets/img/Macromedia_Flash_6_icon.png"></img>
+<img src="assets/img/Netscape_icon.png"></img>
+<img src="assets/img/Node.js-Logo.wine.png"></img>
+<img src="assets/img/Typescript_logo_2020.svg.png"></img>
+
+
 ##### 1995: The Creation of JavaScript
 
 JavaScript was created in 1995 in just 10 days. It was made by Brendan Eich and implemented in Netscape Navigator, one of the first web browsers. Although it was only able to load static pages, its simplicity made it loved by the public.
