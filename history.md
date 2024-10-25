@@ -2,6 +2,13 @@
 layout: page
 title: History
 subtitle: Large events since the creation of JavaScript to now
+image: assets/img/avatar-icon.png
+image: assets/img/500px-IE_1_logo.png
+image: assets/img/Macromedia_Flash_6_icon.png
+image: assets/img/Netscape_icon.png
+image: assets/img/Node.js-Logo.wine.png
+image: assets/img/Typescript_logo_2020.svg.png
+
 ---
 
 <img src="assets/img/avatar-icon.png" max-height="250px"></img>
