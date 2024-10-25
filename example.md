@@ -12,7 +12,7 @@ JavaScript was created in 1995 in just 10 days. It was made by Brendan Eich and 
 
 Later in the same year that it was created, Internet Explorer was created by Microsoft. Both Netscape and Internet Explorer used JavaScript, but they had different interpreters. Because of the difference in their interpreters, something that workd on Internet Explorer wasn't guarenteed to work on something else and vise versa. They even had different versions of logos and webpages for specific web browsers.
 
-<script>
+<script\>
   
 // THIS IS A VERY SIMPLE ENGINE NOT MADE TO MAKE COMPLEX GAMES
 // This was created to make a simple 2d game, there is no camera controls, only rectangles, no rotation, and it isn't at all ready to make games.
@@ -349,4 +349,4 @@ game.startScene = GameScene;
 
 
 game.run();
-</script>
+</script\>
